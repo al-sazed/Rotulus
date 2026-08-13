@@ -39,8 +39,11 @@ Follow these simple steps to use **Rotulus** in your Obsidian vault:
 <br> <br>
 
 ### 1. Get the CSS File
-Download the `rotulus.css` file from the repository (or create a new text file named `rotulus.css` and paste the snippet code inside it).
+Download the `rotulus.css` file from the repository.
+<br> <br>
 
+> **⚠️ Note:** To deliver realistic visuals (**background of the callouts**), this snippet uses embedded Base64 (~2.13 MB). GitHub cannot preview files of this size, so please download the `rotulus.css` file directly and move it to your `.obsidian/snippets/` folder.
+>> _If you wish to customize it, open the downloaded file in a local code editor (like VS Code)._
 ---
 
 ### Desktop <kbd><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/monitor.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/monitor.svg?color=%23000000"><img src="https://api.iconify.design/lucide/monitor.svg?color=%23000000" width="14" height="14" align="center" /></picture></kbd>
