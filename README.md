@@ -70,7 +70,7 @@ Download the `rotulus.css` file from the repository.
 
 <div align = center>
 
-## 🛠️ Config & Trouble
+## 🛠️ Config  
 
 </div>
 
@@ -83,6 +83,45 @@ A Base64-encoded background image is embedded in the CSS to make the Obsidian ca
 * **Use VS Code:** Edit the CSS file using **VS Code** (or any proper code editor) instead of basic editors like Notepad++ to avoid lag caused by long Base64 strings.
 
 > **Note:** If you don't want to deal with editing, you can simply use the file as-is without changing anything!
+<br>
+
+
+<div align = center>
+
+## 🚩 Trouble
+
+<img width="1233" height="364" alt="image" src="https://github.com/user-attachments/assets/de8442ec-6dc8-4988-ae2a-f153abf54d0e" />
+</div>
+
+> **⚠️ Note:** If you have a large monitor/screen then your background may crash like that.
+
+
+<br> <br> 
+## Solve :
+
+<img width="1191" height="556" alt="image" src="https://github.com/user-attachments/assets/1ba58199-2636-4fd3-aeae-93d1211e48c0" />
+
+<br> 
+
+* Open the downloaded file in a local code editor (like VS Code).
+
+* Go to `116`th line, then just increase the width.
+
+<br> <br>
+
+<div align="center">
+
+## 🩵 Thank You for Visiting!
+
+If you find this repo useful or helpful, please consider giving it a **⭐️ Star**!  
+It means a lot to me 🥹
+
+</div>
+
+
+
+
+
 
 
 
